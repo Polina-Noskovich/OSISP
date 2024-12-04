@@ -1,0 +1,4 @@
+﻿  Lab_osisp_2.cpp
+D:\Lab_osisp_2\Lab_osisp_2\Lab_osisp_2.cpp(18,55): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\Lab_osisp_2\Lab_osisp_2\Lab_osisp_2.cpp(68,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab_osisp_2.vcxproj -> D:\Lab_osisp_2\x64\Debug\Lab_osisp_2.exe
